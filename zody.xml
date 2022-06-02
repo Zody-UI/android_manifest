@@ -19,7 +19,7 @@
 
   <project path="art" name="android_art" remote="zody" />
   <project path="bionic" name="android_bionic" groups="pdk" remote="zody" />
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="zody" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="arrow" />
 
   <!-- device repos -->
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="arrow" />
