@@ -135,6 +135,7 @@
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="arrow" />
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="zody" />
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="arrow" />
+  <project path="packages/apps/ViaBrowser" name="android_packages_apps_ViaBrowser" remote="zody" />
   <project path="packages/modules/adb" name="android_packages_modules_adb" remote="arrow" />
   <project path="packages/modules/Connectivity" name="android_packages_modules_Connectivity" remote="arrow" />
   <project path="packages/modules/Permission" name="android_packages_modules_Permission" remote="arrow" />
