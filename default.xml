@@ -27,6 +27,10 @@
            fetch="https://github.com/Zody-UI"
            revision="refs/heads/sense" />
 
+  <remote  name="zody-gitlab"
+           fetch="https://gitlab.com/Zody-UI"
+           revision="refs/heads/sense" />
+
   <superproject name="platform/superproject" remote="aosp" revision="android-12.1.0_r5" />
   <contactinfo bugurl="go/repo-bug" />
 
