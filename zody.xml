@@ -130,6 +130,8 @@
   <project path="packages/apps/HMSCore" name="android_packages_apps_HMSCore" remote="zody" />
   <project path="packages/apps/HuaweiAppMarket" name="android_packages_apps_HuaweiAppMarket" remote="zody" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="zody" />
+  <project path="packages/apps/MeizuNotePaper" name="android_packages_apps_MeizuNotePaper" remote="zody" />
+  <project path="packages/apps/MeizuToolBox" name="android_packages_apps_MeizuToolBox" remote="zody" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="zody" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="arrow" />
   <project path="packages/apps/OnePlusCalculator" name="android_packages_apps_OnePlusCalculator" remote="zody" />
@@ -138,6 +140,7 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="zody" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="zody" />
   <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="arrow" />
+  <project path="packages/apps/SogouInputMeizu" name="android_packages_apps_SogouInputMeizu" remote="zody" />
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="arrow" />
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="zody" />
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="arrow" />
