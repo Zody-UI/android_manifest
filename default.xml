@@ -1127,4 +1127,8 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
+  <!-- Zody UI -->
+  <include name="remove.xml" />
+  <include name="zody.xml" />
+
 </manifest>
