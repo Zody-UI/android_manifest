@@ -46,6 +46,8 @@
   <project path="external/noto-fonts" name="android_external_noto-fonts" remote="proton" />
   <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="proton" />
   <project path="external/google-fonts/cutive-mono" name="android_external_google-fonts_cutive-mono" remote="proton" />
+  <project path="external/colorkt" name="android_external_colorkt" remote="proton" />
+  <project path="external/themelib" name="android_external_themelib" remote="proton" />
 
   <!-- framework repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="zody" />
