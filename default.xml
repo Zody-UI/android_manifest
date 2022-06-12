@@ -23,6 +23,10 @@
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-12.1" />
 
+  <remote name="proton" 
+          fetch="https://github.com/ProtonAOSP" 
+          revision="sc-v2" />
+
   <remote  name="zody"
            fetch="https://github.com/Zody-UI"
            revision="refs/heads/sense" />
